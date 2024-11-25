@@ -24,13 +24,13 @@ The dataset used is `netflix_data.csv`, which contains information about Netflix
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/josedanielchg/1990s-netflix-movie-insight.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd your-repo-name
+   cd 1990s-netflix-movie-insight
    ```
 
 3. **Install the required packages**:
